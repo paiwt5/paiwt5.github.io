@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: artwaters.com
+Token: e3c55f1987a93bdf63f777de014fc13d7be56f2b9a35d671ebc1c290b935919b
