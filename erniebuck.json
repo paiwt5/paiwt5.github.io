@@ -1,0 +1,27 @@
+{
+
+  "name": "Ernie Bucks",
+
+  "description": "The Currency For Paiwt",
+
+  "image": "https://paiwt.com/images/erniebuck.jpg",
+
+  "properties":{
+
+
+  
+   "rarity": {
+
+    "name": "Quality",
+
+    "value": "mint",
+
+    "display_value":"Mint"
+
+   },
+ 
+ 
+   "Website":"Paiwt.com"
+
+   }
+}
