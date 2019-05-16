@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: paiwt.com
-Token: 06009497c190ea2ab5e75e757b9e38915e77b53d03374f57dad47e7ac710cb29
+Token: e30f6ba780131f9d256ca34b6672f69952b53a0a95fc8bc5bd8758a8ae725413
