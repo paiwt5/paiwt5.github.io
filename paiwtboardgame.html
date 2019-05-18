@@ -65,7 +65,7 @@
 						
 						
 						
-						<div id='product-component-9ee018caec0'></div>
+						<div id='product-component-fcfeab58d37'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -98,38 +98,41 @@
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [2124639797302],
-            node: document.getElementById('product-component-9ee018caec0'),
+            node: document.getElementById('product-component-fcfeab58d37'),
             moneyFormat: '%24%7B%7Bamount%7D%7D',
             options: {
   "product": {
-    "layout": "horizontal",
     "variantId": "all",
-    "width": "100%",
     "contents": {
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": true,
+      "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
     "styles": {
       "product": {
-        "text-align": "left",
         "@media (min-width: 601px)": {
           "max-width": "100%",
           "margin-left": "0",
           "margin-bottom": "50px"
+        },
+        "carousel-button": {
+          "display": "none"
         }
       },
-      "title": {
-        "font-size": "26px"
-      },
-      "price": {
-        "font-size": "18px"
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
       },
       "compareAt": {
-        "font-size": "15px"
+        "font-size": "12px"
       }
     }
   },
@@ -138,6 +141,15 @@
       "button": true
     },
     "styles": {
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      },
       "footer": {
         "background-color": "#ffffff"
       }
@@ -158,6 +170,28 @@
           "max-width": "100%",
           "margin-left": "0px",
           "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
         }
       }
     }
