@@ -65,7 +65,7 @@
 						
 						
 						
-						<div id='product-component-fcfeab58d37'></div>
+					<div id='product-component-57909c6058f'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -98,28 +98,28 @@
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [2124639797302],
-            node: document.getElementById('product-component-fcfeab58d37'),
+            node: document.getElementById('product-component-57909c6058f'),
             moneyFormat: '%24%7B%7Bamount%7D%7D',
             options: {
   "product": {
+    "layout": "horizontal",
     "variantId": "all",
+    "width": "100%",
     "contents": {
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": false,
+      "description": true,
       "buttonWithQuantity": false,
       "quantity": false
     },
     "styles": {
       "product": {
+        "text-align": "left",
         "@media (min-width: 601px)": {
           "max-width": "100%",
           "margin-left": "0",
           "margin-bottom": "50px"
-        },
-        "carousel-button": {
-          "display": "none"
         }
       },
       "button": {
@@ -131,8 +131,14 @@
           "background-color": "#00acc4"
         }
       },
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
       "compareAt": {
-        "font-size": "12px"
+        "font-size": "15px"
       }
     }
   },
