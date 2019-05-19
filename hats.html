@@ -54,7 +54,7 @@
 
 									<!-- Content -->
 										
-											<div id='product-component-00969d14cd3'></div>
+							<div id='collection-component-2bd04c99cf5'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -85,31 +85,43 @@
         });
 
         ShopifyBuy.UI.onReady(client).then(function (ui) {
-          ui.createComponent('product', {
-            id: [2124893519926],
-            node: document.getElementById('product-component-00969d14cd3'),
+          ui.createComponent('collection', {
+            id: 88976326710,
+            node: document.getElementById('collection-component-2bd04c99cf5'),
             moneyFormat: '%24%7B%7Bamount%7D%7D',
             options: {
   "product": {
+    "buttonDestination": "modal",
     "variantId": "all",
-    "width": "240px",
     "contents": {
-      "img": false,
-      "imgWithCarousel": true,
+      "imgWithCarousel": false,
       "variantTitle": false,
+      "options": false,
       "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
+    "text": {
+      "button": "VIEW PRODUCT"
+    },
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "100%",
-          "margin-left": "0",
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
           "margin-bottom": "50px"
         },
-        "carousel-button": {
-          "display": "none"
+        "imgWrapper": {
+          "position": "relative",
+          "height": "0",
+          "padding-top": "calc(75% + 15px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
         }
       },
       "button": {
@@ -120,9 +132,6 @@
         ":focus": {
           "background-color": "#00acc4"
         }
-      },
-      "compareAt": {
-        "font-size": "12px"
       }
     }
   },
