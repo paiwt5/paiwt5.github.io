@@ -53,63 +53,167 @@
 									</header>
 
 									<!-- Content -->
-										<h2 id="content">
-                    
-                    NEXT GENERATION ERC-1155 TOKENS
-                    </h2>
-									
-									<p><span class="image left"><img src="images/ernie01a.png" alt="" /></span>
-									Enjin Ernests, "Paiwt Hands," commonly known as "Ernies," are ERC-1155 Tokens backed by 5 Enjin that allows special abilities used in tournament games of <a href="paiwtboardgame.html">Paiwt The Board Game</a>.</p>
-										
-									
-										Official Ernie ERC-1155 Tokens for sale. All sales are made through Enjin coin. Please inquire on <a href="https://t.me/PaiwtTelegram" target="_blank"> Paiwt's Official Telegram Channel.</a><p>
-				
-											
-										
-											
-									</p>
+										<div id='product-component-f2ffba4cde2'></div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
 
-				
-				
-													<div class="table-wrapper">
-														<table>
-															<thead>
-																<tr>
-																	<th>Name</th>
-																	<th>Description</th>
-																	<th>Supply</th>
-																	<th>Price</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td><a href="https://enjinx.io/eth/asset/20098374-pirate-ernie" target="_blank">Pirate Ernie</a></td>
-																	<td>The first ever Official Ernie ERC-1155 Token minted.</td>
-																	<td>1</td>
-																	<td>2750 ENJIN</td>
-																</tr>
-																
-										<tr>
-																	<td><a href="https://enjinx.io/eth/asset/24776876-chief-ernie" target="_blank">Chief Ernie</a></td>
-																	<td>Perform a "Rain Dance" with this rare Ernie.</td>
-																	<td>1</td>
-																	<td>1750 ENJIN</td>
-																</tr>
-																<tr>
-																	<td><a href="https://enjinx.io/eth/asset/20513435-clown-ernie" target="_blank">Clown Ernie</a></td>
-																	<td>Play "Fun and Games" with this rare Ernie.</td>
-																	<td>1</td>
-																	<td>1750 ENJIN</td>
-																</tr>
-													
+    (function () {
+      var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+      if (window.ShopifyBuy) {
+        if (window.ShopifyBuy.UI) {
+          ShopifyBuyInit();
+        } else {
+          loadScript();
+        }
+      } else {
+        loadScript();
+      }
 
-														</table>
-													</div>
+      function loadScript() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = scriptURL;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+        script.onload = ShopifyBuyInit;
+      }
+
+      function ShopifyBuyInit() {
+        var client = ShopifyBuy.buildClient({
+          domain: 'crosswaters.myshopify.com',
+          storefrontAccessToken: '48d4423bc955ea22b1d74badf627a827',
+        });
+
+        ShopifyBuy.UI.onReady(client).then(function (ui) {
+          ui.createComponent('product', {
+            id: [2126138703926],
+            node: document.getElementById('product-component-f2ffba4cde2'),
+            moneyFormat: '%24%7B%7Bamount%7D%7D',
+            options: {
+  "product": {
+    "layout": "horizontal",
+    "variantId": "all",
+    "width": "100%",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "description": true,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "text-align": "left",
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      },
+      "title": {
+        "font-size": "26px"
+      },
+      "description": {
+        "font-size": "17px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
+      "compareAt": {
+        "font-size": "15px"
+      }
+    }
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      },
+      "description": {
+        "font-size": "17px"
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#00bfda",
+        ":hover": {
+          "background-color": "#00acc4"
+        },
+        ":focus": {
+          "background-color": "#00acc4"
+        }
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+          });
+        });
+      }
+    })();
+    /*]]>*/
+    </script>
 									
-									
-									
-									
-									
+									</div>
 									<div class="box alt">
 														<div class="row gtr-50 gtr-uniform">
 															<div class="col-4"><span class="image fit">
