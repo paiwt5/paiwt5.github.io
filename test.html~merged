@@ -1,0 +1,468 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Payments | Paiwt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload homepage">
+    <div id="page-wrapper">
+      <div id="header-wrapper">
+        <header id="header" class="container">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="index.html"><img src="images/logopaiwt.jpg" alt="Logo"
+                  title="Logo" style="width: 102px; height: 55px;"></a></h1>
+            <span></span> </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li><a href="https://paiwt7.github.io" title="paiwt7.github.io">Welcome
+                  </a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="products" title="Products">Products</a></li>
+              <li><a href="instructions">Instructions</a></li>
+              <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop">e-Shop</a></li>
+              <li> <a href="techniques">Techniques</a>
+                <ul>
+                  <li><a href="colorful-medium">Colorful Medium</a></li>
+                  <li><a href="peeling-off-plastic">Peeling Off Plastic</a></li>
+                  <li><a href="using-paint-brush">Using Paint Brushes</a></li>
+                  <li><a href="adding-resin-finish">Adding a Resin Finish</a></li>
+                  <li> <a href="#">More</a>
+                    <ul>
+                      <li><a href="pouring-medium-into-colors">Pouring Medium
+                          Into Colors</a></li>
+                      <li><a href="magic-brush">"Magic Brush"</a></li>
+                      <li><a href="adding-image-cutouts">Adding Image Cutouts</a></li>
+                      <li><a href="cutting-out-paiwt">Cutting Out Your Paiwt</a></li>
+                      <li><a href="straight-lines">Straight Lines</a></li>
+                      <li><a href="pouring-color-mixture">Pouring Color Mixture</a></li>
+                      <li><a href="creating-starfish">Creating Starfish</a></li>
+                      <li><a href="paiwt-on-clay">Using Paiwt On Clay</a></li>
+                      <li><a href="large-colorful-design">Large Colorful Design</a></li>
+                      <li><a href="blow-drip">Blow Drip</a></li>
+                      <li><a href="scenic-painting">Scenic Painting</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+        </header>
+      </div>
+      <!-- Main -->
+      <div id="main-wrapper">
+        <div class="container">
+          <div id="content">
+            <!-- Content -->
+            <article>
+              <h1 style="text-align: justify;">Paiwt Color Droppers</h1>
+              <p style="color:black;font-size:18px;"> <a href="https://www.etsy.com/listing/856052002"
+                  target="_blank">Paiwt Color Droppers</a> offer an art form
+                that is unique, when used with <a href="whitemedium">Paiwt
+                  Medium</a> they produce an organic effect. The process is
+                easy, safe, and fun. </p>
+              <a href="https://www.etsy.com/listing/856052002" target="_blank"><img
+                  src="images/lcdt4b.png" class="center" alt="Paiwt Color Droppers Image #1"
+                  title="Paiwt Color Droppers Image #1"><br>
+              </a>
+              <p style="color:black;font-size:18px;">There are 9 different Paiwt
+                Colors including: Red, Yellow, Purple, Green, Orange, Blue,
+                Brown, Pink, and Black.<br>
+              </p>
+              <a href="https://www.etsy.com/listing/856052002/3ml-paiwt-color-droppers-dendrite?variation0=1677445702"
+                target="_blank"><img src="images/colordroppers7.png" class="center"
+                  alt="Color Dropper Image #2" title="Color Dropper Image #2"><br>
+              </a>
+              <p style="color:black;font-size:18px;">When two or more Paiwt
+                Colors are dropped onto or around each other close enough to
+                combine, the colors will form a bond that grows larger together.
+                New colors and designs can be achieved by then using <a href="expander">Paiwt
+                  Expander.</a><br>
+              </p>
+              <a href="https://www.instagram.com/p/CDwyraGnKCh/" target="_blank"><img
+                  src="images/expander7.png" class="center" alt=""><br>
+              </a>
+              <p style="color: black; font-size: 15px; text-align: center;" class="center">
+                Visit <a href="https://www.etsy.com/shop/paiwt" target="_blank">The
+                  Paiwt e-Shop</a> to order genuine Paiwt supplies. </p>
+              <!-- Footer --></article>
+          </div>
+          <div id="footer-wrapper">
+            <footer id="footer" class="container">
+              <div class="row">
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> Customer Service
+                    <ul class="style2">
+                      <li><a href="contact" title="Contact Us">Contact Us </a></li>
+                      <li><a href="payments" title="Payment Options">Payment
+                          Options</a></li>
+                      <li><a href="catalog" title="Request A Catalog">Request A
+                          Catalog</a></li>
+                      <li><a href="shipping" title="Shipping Information">Shipping
+                          Information </a></li>
+                      <li><a href="returns" title="Return Policy">Return Policy</a></li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> Product Information
+                    <ul class="style2">
+                      <li><a href="help" title="General Help">General Help </a></li>
+                      <li><a href="products" title="Products Page">Products Page
+                        </a></li>
+                      <li><a href="instructions" title="Instructions">Instructions</a></li>
+                      <li><a href="green" title="Being Green At Paiwt">Being
+                          Green at Paiwt</a></li>
+                      <li><a href="health" title="Health &amp; Saftey">Health
+                          &amp; Safety</a></li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Links -->
+                  <section class="widget links"> Quick Links
+                    <ul class="style2">
+                      <li><a href="https://etsy.com/shop/paiwt" title="Paiwt e-Shop ">e-Shop</a></li>
+                      <li><a href="about" title="About Paiwt">About Paiwt </a></li>
+                      <li><a href="mailinglist" title="Join Our Email List">Join
+                          Our Email List </a></li>
+                      <li><a href="security" title="Security &amp; Privacy">Security
+                          &amp; Privacy </a></li>
+                      <li><a href="terms" title="Terms of Use">Terms of Use </a></li>
+                    </ul>
+                  </section>
+                </div>
+                <div class="col-3 col-6-medium col-12-small">
+                  <!-- Contact -->
+                  <section class="widget contact last"> Contact Us
+                    <ul>
+                      <li><a href="https://twitter.com/droppingart" class="icon brands fa-twitter"
+                          title="Paiwt Twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                      <li><a href="https://facebook.com/paiwt" class="icon brands fa-facebook-f"
+                          title="Paiwt Facebook" target="_blank"><span class="label">Facebook</span></a></li>
+                      <li><a href="https://instagram.com/paiwt1" class="icon brands fa-instagram"
+                          title="Paiwt Instagram" target="_blank"><span class="label">Instagram</span></a></li>
+                      <li><a href="https://youtube.com/artkitstore" class="icon brands fa-youtube"
+                          title="Paiwt YouTube"><span class="label">YouTube</span></a></li>
+                      <li><a href="https://pinterest.com/artwaters" class="icon brands fa-pinterest"
+                          title="Paiwt Pinterest " target="_blank"><span class="label">Pinterest</span></a></li>
+                    </ul>
+                    <p>1350 E Flamingo Rd. Ste 13b 422<br>
+                      Las Vegas, NV 89119<br>
+                      (702) 764-7095</p>
+                  </section>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-12">
+                  <div id="copyright">
+                    <ul class="menu">
+                      <li>Copyright © 2018 Paiwt.com. All rights reserved</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </footer>
+          </div>
+        </div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.dropotron.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </div>
+    </div>
+  </body>
+</html>
+=======
+
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		
+		
+		
+			
+			<link rel="icon" href="favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+		
+		
+		
+		
+		
+		
+		<title>Paiwt - Home</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><img src="images/logopaiwt.jpg" alt="logo" height="173" width="380"></a>
+									<ul class="icons">
+										<li><a href="https://twitter.com/paiwtgame" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/Paiwt/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/paiwtgame/" target="_blank"  class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>PaintWaters<br />
+											</h1><h3>powered by Enjin</h3>
+											<p>Compete in a board game using paint to complete unique artwork that enables you to join an interactive blockchain market. </p>
+										</header>
+										<p>
+										
+										
+										
+										Paiwt [PAWNT] is a board game where your creations create Enjin backed ERC-1155 Tokens. Players create Unique Paiwt Explosions (or UPE for short) according to the game rules and then be submitted for minting. Individual Unique Paiwt Explosions will have a distinct visual appearance determined by the sequence of colors players choose during the game. After Unique Paiwt Explosions become minted into an offical Paiwt UPE ERC-1155 Token, they can be bought, sold, or transferred digitally. All the block digital Unique Paiwt Explosions are unique and 100% owned and controlled by the artists; they cannot be replicated, stolen, or destroyed. Unique Paiwt Explosions are not a cryptocurrency; they’re a cryptocollectible.
+										
+										
+										
+										</p><ul class="actions">
+											<li><a href="paiwtboardgame.html" class="button big">View Paiwt The Board Game</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/pic10.png" alt="" />
+									</span>
+								</section>
+
+							
+
+							<!-- Section -->
+								
+							
+							
+							<section>
+									<header class="major">
+										<h2>Get Started</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="upecollectibles.html" class="image"><img src="images/pic01.png" alt="" /></a>
+											<h3>Unique Paiwt Explosion</h3>
+											<p>
+											
+											
+											
+											Competing in our board game creates Unique Paiwt Explosions, or UPE for short. Each UPE consists of a random color design that a player completes to win. 
+											
+											
+											
+											
+											</p>
+											<ul class="actions">
+												<li><a href="upecollectibles.html" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="mint.html" class="image"><img src="images/pic02.png" alt="" /></a>
+											<h3>Mint Your UPE Token</h3>
+											<p>
+									
+All tokens minted through this service are ERC-1155 blockchain assets that are cross-platform compatible, automatically supported by the Enjin Wallet.	
+											
+											
+											</p>
+											
+											<ul class="actions">
+												<li><a href="mint.html" class="button">More</a></li>
+											</ul>
+										</article>
+										
+										
+										
+													<article>
+											<a href="paiwtboardgame.html" class="image"><img src="images/pic05.png" alt="" /></a>
+											<h3>Paiwt The Board Game</h3>
+											<p>
+											
+											 Purchase the official Paiwt The Board Game here.   Learn the rules to game and view the Paiwt Cards and Paiwt Board. 
+											
+											</p><ul class="actions">
+												<li><a href="paiwtboardgame.html" class="button">More</a></li>
+											</ul>
+										</article>
+										
+										
+										<article>
+											<a href="erniecollectibles.html" class="image"><img src="images/pic04.png" alt="" /></a>
+											<h3>Ernie ERC-1155 Collectibles</h3>
+											<p>
+											   
+											  Enjin Ernest, "Paiwt Hand," commonly known as "Ernie," takes on the role of infinite characters, unlocking special abilitys during a tournament. <p>
+											
+											
+											<ul class="actions">
+												<li><a href="erniecollectibles.html" class="button">More</a></li>
+											</ul>
+										</article>
+							
+										<article>
+											<a href="merch.html" class="image"><img src="images/pic06.png" alt="" /></a>
+											<h3>Merchandise</h3>
+											<p>
+											
+												Purchase your official Paiwt Merchandise. Hats, T-Shirts, and Misc Items are available. Customized items per customer request available. 
+											
+											</p><ul class="actions">
+												<li><a href="merch.html" class="button">More</a></li>
+											</ul>
+										</article>
+										
+										
+										
+										
+										<article>
+											<a href="http://t.me/PaiwtTelegram" target="_blank" class="image"><img src="images/pic03.png" alt="" /></a>
+											<h3>Let's Chat</h3>
+											<p>
+											Join Telegram. Chat live with us and enter giveaways. Private and Cloud-Based, Telegram messages are heavily encrypted. 
+											</p><ul class="actions">
+												<li><a href="http://t.me/PaiwtTelegram" target="_blank" class="button">More</a></li>
+											</ul>
+										</article>
+										
+										
+										
+									</div>
+							
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+											<li><a href="getstarted.html">Get Started</a></li>
+							
+												<li><a href="paiwtboardgame.html">The Board Game</a></li>
+										<li><a href="mint.html">UPE Mint Shop</a></li>
+									
+										<li>
+											<span class="opener">Collectibles</span>
+											<ul>
+												<li><a href="upecollectibles.html">UPE Collectibles</a></li>
+												<li><a href="erniecollectibles.html">Ernie Collectibles</a></li>
+												
+											</ul>
+										</li>
+									
+										<li>
+											<span class="opener">Merchandise</span>
+											<ul>
+												<li><a href="hats.html">Hats</a></li>
+												<li><a href="tshirts.html">T-Shirts</a></li>
+												<li><a href="msc.html">Miscellaneous</a></li>
+											
+											</ul>
+										</li>
+										
+										
+										
+										
+											
+									</ul>
+									
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>UPE Token of The Month</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.png" alt="" /></a>
+											<p>June 2019 UPE Token </p></article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.png" alt="" /></a>
+											<p>
+												
+												May 2019 UPE Token
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.png" alt="" /></a>
+											<p>
+										
+										April 2019 UPE Token
+										
+											</p></article>
+									</div>
+									<ul class="actions">
+										<li><a href="tokenofthemonth.html" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Questions? Comments? Join Telegram. Chat live with us and enter giveaways. Private and Cloud-Based, Telegram messages are heavily encrypted. 
+											<ul class="contact">
+									
+									
+									</p>
+									
+									<li class="fa-envelope-o"><a href="https://t.me/PaiwtTelegram">Paiwt's Official Telegram</a></li>
+										
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; ArtWaters. All rights reserved.</a></p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+>>>>>>> parent of 115f13e... yes
